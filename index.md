@@ -44,7 +44,7 @@ Introduction
 
 _I like patterns; taking abstract ideas and bringing them into the world of the 'real' in order to help people get more done and have more fun._
 
-_I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie Short Circuit's Johnny 5 robot-with-emotions and to the l33t5p34k spelling of JS. Eeen-put, Stephanie!_
+_I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie Short Circuit's Johnny 5 robot-with-emotions and to the 13375p34k spelling of JS. Eeen-put, Stephanie!_
 
 <hr/>
 
