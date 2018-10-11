@@ -2,25 +2,54 @@
 something: true
 ---
 
+<style>
+
+  h5 {
+    font-size: 1em;
+  }
+
+  section:first-of-type img:first-of-type {
+    display: block;
+    max-width: 40%;
+    margin-right: 0.8em;
+    text-align: center;
+    float: left;
+  }
+
+  hr {
+    clear: both;
+    padding-top: 1.3em;
+  }
+
+  section:first-of-type p:nth-of-type(3) em,
+  section:first-of-type p:nth-of-type(4) {
+    font-size: 1.3em;
+  }
+
+</style>
+
 Jonathan 'J5' Cook
 ============================
 
 
-### Getting To Know Me, Getting to Learn All About Me
+__Getting To Know Me, Getting to Learn All About Me__
 
 
 Introduction
 ------------
 
+<hr/>
 
-I like patterns; taking abstract ideas and bringing them into the world of the 'real' in order to help people get more done and have more fun.
+![Johnny 5 by ramenandsuch](/assets/images/johnny 5 by ramenandsuch.png)
 
+_I like patterns; taking abstract ideas and bringing them into the world of the 'real' in order to help people get more done and have more fun._
 
-I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie Short Circuit's Johnny 5 robot-with-emotions and to the l33t5p34k spelling of JS. Eeen-put, Stephanie!
+_I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie Short Circuit's Johnny 5 robot-with-emotions and to the l33t5p34k spelling of JS. Eeen-put, Stephanie!_
 
+<hr/>
 
-An overview of my technical experience:
-
+An overview of my technical experience
+-------------
 
 *   A Little Bit of Everything: 20 years
 *   Node.js: 2+ years
@@ -37,8 +66,12 @@ An overview of my technical experience:
 *   RxJS: @ 1 year
 
 
+Resumes, CVs, and more
+----------
+
 Check out my [Stack Overflow Developer Story](https://stackoverflow.com/users/story/8152278), [LinkedIn profile](http://linkedin.com/in/j5bot), and my [Resume](https://goo.gl/j2wwzg?jonathan-j5-cook-resume) or [Fun Resume!](https://goo.gl/S7elxK?jonathan-j5-cook-conversational-resume) if you want to know more about my skills and the work that I've done in the past. You can also download a zipped [Info Packet](https://goo.gl/aDzIzj?jonathan-j5-cook-info-packet) which contains a current cover letter, some references, and a document about my work with ViiMed.
 
+__Keywords__
 
 In alphabetical order, a keyword dump of technologies I've worked with over the years:
 
@@ -83,13 +116,13 @@ As a fledgling toolkit, it is presented in the form of an example application, t
 
 Utility to create a memorable / human readable identifier for an object / document / state by mapping hashes to color sequences. Integrating existing functionality from other tools to solve a new and unique problem. Easily translates to other languages, I have implemented the code in C# as well as the javascript shown here.
 
-### Plugin / Toy
+##### Plugin / Toy
 
 [tower-egg](http://github.com/j5bot/tower-egg) ([demo](http://j5bot.github.com/tower-egg/tower.html))
 
 A small javascript puzzle game which implements the 'tower of hanoi' also known as 'lucas tower'. Designed so it can be embedded easily as an application easter egg :)
 
-### HTML5 Shim
+##### HTML5 Shim
 
 [web worker shim](https://github.com/j5bot/html5-shims) (defunct)
 
@@ -107,7 +140,8 @@ Music: Symmetry by [Mew](http://www.mewsite.com/) from the Frengers album.
 Sites
 -----
 
-### Prototypes
+<hr/>
+##### Prototypes
 
 [Collectist: The Walking Dead](https://j5bot.github.io/thewalkingdead.collectist.org) and [Collectist: Gogos Crazy Bones](https://https://j5bot.github.io/gogos.collectist.org)
 
@@ -115,8 +149,8 @@ Two sites running off of the same code engine &emdash; collectors maintain a che
 
 When completed, the site will enable different types of checklists such as 'have', 'want', 'will sell', 'will trade', etc. as well as sharing collections with others via links. I would like to implement distributed (i.e. via Dropbox, Google Drive, etc.) as well as centralized storage options (via document store such as MongoDB); also distributed (i.e. OAuth, OpenID) and centralized authentication.
 
-
-### The Past
+<hr/>
+##### The Past
 
 [Simpsons Collector Sector](http://simpsonscollectors.com)
 
@@ -133,13 +167,15 @@ This code is good to look at if you're interested in my skills in programming JS
 Writings
 --------
 
-### Technical
+<hr/>
+##### Technical
 
 [medium@j5bot](https://medium.com/@j5bot) and [j5bot.blogspot.com](http://j5bot.blogspot.com)
 
 I am not an extremely active blogger, but the items I have written should help demonstrate my communication skills as well as my approach to problem solving.
 
-### Personal
+<hr/>
+##### Personal
 
 [poemfor.us](http://poemfor.us) and [infin8ty.com](http://infin8ty.com)
 
