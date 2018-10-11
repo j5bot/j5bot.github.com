@@ -140,7 +140,6 @@ Music: Symmetry by [Mew](http://www.mewsite.com/) from the Frengers album.
 Sites
 -----
 
-<hr/>
 ##### Prototypes
 
 [Collectist: The Walking Dead](https://j5bot.github.io/thewalkingdead.collectist.org) and [Collectist: Gogos Crazy Bones](https://https://j5bot.github.io/gogos.collectist.org)
@@ -149,7 +148,7 @@ Two sites running off of the same code engine &emdash; collectors maintain a che
 
 When completed, the site will enable different types of checklists such as 'have', 'want', 'will sell', 'will trade', etc. as well as sharing collections with others via links. I would like to implement distributed (i.e. via Dropbox, Google Drive, etc.) as well as centralized storage options (via document store such as MongoDB); also distributed (i.e. OAuth, OpenID) and centralized authentication.
 
-<hr/>
+
 ##### The Past
 
 [Simpsons Collector Sector](http://simpsonscollectors.com)
@@ -167,14 +166,12 @@ This code is good to look at if you're interested in my skills in programming JS
 Writings
 --------
 
-<hr/>
 ##### Technical
 
 [medium@j5bot](https://medium.com/@j5bot) and [j5bot.blogspot.com](http://j5bot.blogspot.com)
 
 I am not an extremely active blogger, but the items I have written should help demonstrate my communication skills as well as my approach to problem solving.
 
-<hr/>
 ##### Personal
 
 [poemfor.us](http://poemfor.us) and [infin8ty.com](http://infin8ty.com)
