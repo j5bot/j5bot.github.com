@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: "@j5bot"
+#  description: Getting to Know Me, Getting to Learn All About Me
+logo: http://www.gravatar.com/avatar/2e019ae1c4a0ea28fa70280a1ac56f18.png
+show_downloads: false
+google_analytics: UA-127162500-1
+exclude: [
+    "node_modules",
+    "webpack",
+    "package.json",
+    "package-lock.json",
+    "Gemfile",
+    "Gemfile.lock",
+    "webpack.config.js"
+  ]
