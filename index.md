@@ -1,29 +1,26 @@
 ---
+something: true
 ---
-
-<!--
-hack to allow markdown preview in atom editor
--------
--->
-
-<style>
-  #portrait { float: left; width: 80px !important; margin: 0px 10px 0px 0px; padding: 20px; background-color: white; }
-</style>
-
 
 Jonathan 'J5' Cook
 ============================
 
+
 ### Getting To Know Me, Getting to Learn All About Me
+
 
 Introduction
 ------------
 
+
 I like patterns; taking abstract ideas and bringing them into the world of the 'real' in order to help people get more done and have more fun.
+
 
 I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie Short Circuit's Johnny 5 robot-with-emotions and to the l33t5p34k spelling of JS. Eeen-put, Stephanie!
 
+
 An overview of my technical experience:
+
 
 *   A Little Bit of Everything: 20 years
 *   Node.js: 2+ years
@@ -39,22 +36,31 @@ An overview of my technical experience:
 *   React-Redux: 1 year
 *   RxJS: @ 1 year
 
+
 Check out my [Stack Overflow Developer Story](https://stackoverflow.com/users/story/8152278), [LinkedIn profile](http://linkedin.com/in/j5bot), and my [Resume](https://goo.gl/j2wwzg?jonathan-j5-cook-resume) or [Fun Resume!](https://goo.gl/S7elxK?jonathan-j5-cook-conversational-resume) if you want to know more about my skills and the work that I've done in the past. You can also download a zipped [Info Packet](https://goo.gl/aDzIzj?jonathan-j5-cook-info-packet) which contains a current cover letter, some references, and a document about my work with ViiMed.
+
 
 In alphabetical order, a keyword dump of technologies I've worked with over the years:
 
+
 `.net` `4gl` `adobe aem` `akamai` `android web browser` `angular2` `angularjs` `animation` `api` `artifactory` `asp.net mvc` `backbonejs` `backgroundworker` `bash` `bootstrap` `bulma` `c#` `c++` `chai` `circleci` `cisco routers` `classic asp` `compass` `cookies` `cross-browser compatibility` `crucible` `css3 flexbox` `css3` `css` `cvs` `day cq4` `day cq5` `dhcp` `dns` `docker compose` `docker` `edgecast` `end-to-end testing` `envox` `es2015` `es6` `etl` `exchange server` `fogbugz` `git` `github issues` `github pages` `github` `grunt` `gulp` `hackathon` `hibernate` `homebrew cask` `homebrew` `html5` `html` `ibatis` `integration testing` `intel dialogic` `ivr` `java` `javascript` `jcr` `jenkins` `jira` `jquery plugins` `jquery-ui` `jquery` `jsunit` `junit` `knockoutjs` `laravel` `less` `localstorage` `macos` `metaprogramming` `microservices` `mocha` `ms access` `ms sql server` `nginx` `node.js` `novell` `npm` `nunit` `nvm` `orientdb` `osgi` `osx 10` `php` `postgresql` `ras` `raw tcp/ip sockets` `react-redux` `react-router-redux` `reactjs` `remedy` `rest` `rxjs` `sass` `scrum master` `scrum` `secure coding` `selenium webdriver` `sinon` `sling` `smtp` `spring` `svn` `tcp/ip` `tdd` `third party javascript` `tinkerpop` `tsql` `typescript` `unit testing` `user experience` `user interface` `vb4` `vb5` `vb6` `vba` `vbscript` `webpack` `webworker` `windows 10` `windows 2k` `windows 7` `windows 8` `windows 95` `windows 98` `windows nt` `xml` `xslt` `zsh` `zurb foundation`
+
 
 Basically, I've been programming since I was a kid. I have the longest and closest relationship with the Javascript programming language, having worked with it since the mid 90's. Based on my mastery of it's C-style syntax and experience with application development, I quickly picked up programming Java and C#, and soon became aware of more rigorous ways to go about solving problems than are typically associated with Javascript.
 
+
 At the same time as I like to be conscious of design patterns and algorithms, my roots as something of a 'cowboy coder' mean that I can get things done and think outside of the proverbial box.
 
+
 While I'm versed in many of the latest frameworks and tech like React, React-Redux, AngularJS and Angular2, I don't use the latest and greatest just because it's cool. That's not me. I want to use the right tool for the job and sometimes that means building out your own tooling, embracing functional programming, hardcore meta-programming, and more.
+
 
 Contact
 -------
 
+
 *   gtalk: [chat j5](gtalk:chat?jid=jonathan.j5.cook@gmail.com) or [call j5](gtalk:call?jid=jonathan.j5.cook@gmail.com)
+
 
 Code
 ----
@@ -108,6 +114,7 @@ Sites
 Two sites running off of the same code engine &emdash; collectors maintain a checklist for the particular hobby (obviously I have started with toys) which is stored for them via localStorage. The code leverages require, knockback (knockout + backbone), and a little bit of zurb foundation.
 
 When completed, the site will enable different types of checklists such as 'have', 'want', 'will sell', 'will trade', etc. as well as sharing collections with others via links. I would like to implement distributed (i.e. via Dropbox, Google Drive, etc.) as well as centralized storage options (via document store such as MongoDB); also distributed (i.e. OAuth, OpenID) and centralized authentication.
+
 
 ### The Past
 
