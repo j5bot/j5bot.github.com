@@ -13,5 +13,7 @@ exclude: [
     "Gemfile.lock",
     "webpack.config.js"
   ]
-gems:
+plugins:
   - jekyll-mentions
+github:
+  is_project_page: true
