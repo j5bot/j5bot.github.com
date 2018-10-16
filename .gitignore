@@ -2,3 +2,5 @@ node_modules
 .stage
 .DS_Store
 *.backup
+_sites
+/_site

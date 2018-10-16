@@ -15,5 +15,3 @@ exclude: [
   ]
 plugins:
   - jekyll-mentions
-github:
-  is_project_page: true
