@@ -17,6 +17,10 @@ figcaption {
   margin-top: 0.3rem;
 }
 
+video {
+  border: solid 1px rgba(0,0,0,0.05);
+}
+
 section:first-of-type img:first-of-type {
   display: block;
   max-width: 40%;
