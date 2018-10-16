@@ -17,7 +17,6 @@
 
 <video controls
   width="600"
-  muted>
-  <source
-    src="/assets/video/ViiMed - Angulator (Original Version).mp4" />
+  poster="/assets/images/viimed/angulator/ViiMed - Angulator (Original Version).png">
+  <source src="/assets/video/ViiMed - Angulator (Original Version).mp4" />
 </video>
