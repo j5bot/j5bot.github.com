@@ -1,9 +1,15 @@
 ---
-something: true
 ---
 
 <style>
   @import '/assets/styles/site.css';
+  .videos {
+    align-items: center;
+  }
+  .videos span {
+    border: solid 1px rgba(0,0,0,0.05);
+    display: inline-block;
+  }
 </style>
 
 # Jonathan 'J5' Cook
@@ -12,7 +18,10 @@ something: true
 
 ## Introduction
 
+![Jonathan Cook](/assets/images/avatar 1024.png)
+<!--
 [![Johnny 5 by ramenandsuch](/assets/images/johnny 5 by ramenandsuch.png)](https://go.jonathancook.site/johnny-5-by-ramenandsuch)
+-->
 
 _I like patterns; taking abstract ideas and bringing them into the world of the
 'real' in order to help people get more done and have more fun._
@@ -218,6 +227,19 @@ programming, meta-programming, and more.
   [call j5](gtalk:call?jid=jonathan.j5.cook@gmail.com)
 -->
 
+## Videos
+
+[Videos](/videos) which demonstrate products and projects I have worked on.
+
+<div class="videos">
+  <a href="/videos">
+    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Angulator (Original Version).png" alt="ViiMed - Angulator (Original Version)" /></span>
+    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Goniometer vs. Angulator - Mobile.png" alt="ViiMed - Goniometer vs. Angulator" /></span>
+    <span><img height="150" src="/assets/images/viimed/journal/ViiMed - Patient Journals.png" alt="ViiMed - Patient Journals" /></span>
+    <span><img height="150" src="/assets/images/designory/Infiniti - Global CMS Launch.png" alt="Infiniti - Global CMS Launch" /></span>
+  </a>
+</div>
+
 ## Code
 
 ### GitHub
@@ -249,7 +271,6 @@ dealing using the
 [deck-of-cards](https://go.jonathancook.site/deck-of-cards-repo) code.  Also
 allows for changing the card face design between the English pattern and a
 Russian "Atlas" design.
-
 
 ### Libraries/Tools
 
@@ -295,12 +316,6 @@ Worker API based off of Google Gears. After the announcement I mothballed the
 project. It still stands as an example of my 'raw' JS programming.
 
 ## Past Work
-
-### Demo Reel
-
-A video demo reel showing my work on the Infiniti Global Korea CMS project.
-
-Music: Symmetry by [Mew](http://www.mewsite.com/) from the Frengers album.
 
 ## Sites
 
@@ -361,3 +376,5 @@ demonstrate my communication skills as well as my approach to problem solving.
   [infin8ty.com](https://go.jonathancook.site/infin8ty-com)
 
 Some of my works as a poet.
+
+{% include header-links.html %}
