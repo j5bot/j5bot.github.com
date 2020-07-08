@@ -27,38 +27,41 @@ _I like patterns; taking abstract ideas and bringing them into the world of the
 'real' in order to help people get more done and have more fun._
 
 _I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie
-Short Circuit's Johnny 5 robot-with-emotions and to the 13375p34k spelling of
+Short Circuit's Johnny 5 robot-with-emotions and to the h4x0r spelling of
 JS. Eeen-put, Stephanie!_
 
 ## An overview of my technical experience
 
-- A Little Bit of Everything: 20+ years
+- A Little Bit of Everything: 22+ years
+- Javascript: 17+ years
+- Java: 9+ years
 - Node.js: 4+ years
-- Javascript: 15+ years
 - Server-Side Javascript: 5+ years
-- Front-End Development: 15+ years
-- HTML5: 5+ years
-- CSS3: 5+ years
-- Java: 8+ years
+- Front-End Development: 17+ years
+- HTML5: 7+ years
+- CSS3: 7+ years
 - AngularJS: 2+ years
 - Angular2: 1 year
 - Angular5: 1 year
-- ReactJS: 2+ years
-- React-Redux: 1 year
+- ReactJS: 4+ years
+- React-Redux: 3+ years
 - RxJS: 1 year
 
 ## Resumes, CVs, and more
 
-Check out my
-[Stack Overflow Developer Story](https://go.jonathancook.site/stack-overflow-story),
+Check out my [Resume](https://go.jonathancook.site/resume)
+or [Fun Resume!](https://go.jonathancook.site/fun-resume), and
 [LinkedIn profile](https://go.jonathancook.site/linkedin),
-and my [Resume](https://go.jonathancook.site/resume)
-or [Fun Resume!](https://go.jonathancook.site/fun-resume)
 if you want to know more about my skills and the work that I've done in the
-past.  You can also download a zipped
+past.
+
+<!-- my
+[Stack Overflow Developer Story](https://go.jonathancook.site/stack-overflow-story), -->
+
+<!-- You can also download a zipped
 [Info Packet](https://go.jonathancook.site/info-packet)
 which contains a current cover letter, some references, and a document about my
-work with ViiMed.
+work with ViiMed. -->
 
 **Keywords**
 
@@ -70,7 +73,7 @@ years:
 `adobe aem`
 `akamai`
 `android web browser`
-`angular2`
+`angular`
 `angularjs`
 `animation`
 `api`
@@ -79,6 +82,8 @@ years:
 `backbonejs`
 `backgroundworker`
 `bash`
+`bitbucket`
+`blueprintjs`
 `bootstrap`
 `bulma`
 `c#`
@@ -88,6 +93,7 @@ years:
 `cisco routers`
 `classic asp`
 `compass`
+`confluence`
 `cookies`
 `cross-browser compatibility`
 `crucible`
@@ -122,6 +128,7 @@ years:
 `html5`
 `html`
 `ibatis`
+`immer`
 `integration testing`
 `intel dialogic`
 `ivr`
@@ -129,7 +136,9 @@ years:
 `javascript`
 `jcr`
 `jenkins`
+`jest`
 `jira`
+`jpa`
 `jquery plugins`
 `jquery-ui`
 `jquery`
@@ -147,6 +156,7 @@ years:
 `ms sql server`
 `nginx`
 `node.js`
+`normalizr`
 `novell`
 `npm`
 `nunit`
@@ -160,8 +170,12 @@ years:
 `raw tcp/ip sockets`
 `react-redux`
 `react-router-redux`
+`react-testing-library`
 `reactjs`
+`redux`
+`redux-sagas`
 `remedy`
+`reselect`
 `rest`
 `rxjs`
 `sass`
@@ -173,6 +187,7 @@ years:
 `sling`
 `smtp`
 `spring`
+`spring boot`
 `svn`
 `tcp/ip`
 `tdd`
@@ -214,10 +229,10 @@ roots as something of a 'cowboy coder' mean that I can get things done and think
 outside of the proverbial box.
 
 While I'm versed in many of the latest frameworks and tech like React,
-React-Redux, AngularJS and Angular2, I don't use the latest and greatest just
-because it's cool. That's not me. I want to use the right tool for the job and
-sometimes that means building out your own tooling, embracing functional
-programming, meta-programming, and more.
+React-Redux, AngularJS and Angular, I don't use the latest and greatest just
+because it's cool. That's not me. I evolve existing legacy systems into the future, and
+I want to use the right tool for the job. Sometimes that means building out your own tooling,
+embracing functional programming, meta-programming, and more.
 
 <!--
 ## Contact
@@ -329,7 +344,7 @@ for the particular hobby (obviously I have started with toys) which is stored
 for them via localStorage. The code leverages require, knockback (knockout +
 backbone), and a little bit of zurb foundation.
 
-When completed, the site will enable different types of checklists such as
+When completed, the site would enable different types of checklists such as
 'have', 'want', 'will sell', 'will trade', etc. as well as sharing collections
 with others via links. I would like to implement distributed (i.e. via Dropbox,
 Google Drive, etc.) as well as centralized storage options (via document store
