@@ -4,3 +4,4 @@ node_modules
 *.backup
 _sites
 /_site
+yarn.lock
