@@ -31,7 +31,7 @@ patient's joint displayed in a recorded video.  The Angulator was patented
 and featured prominently in several ViiMed videos
 ... [[More](/viimed/angulator)]
 
-** Patient Journals **
+**Patient Journals**
 
 <figure>
   <video controls
