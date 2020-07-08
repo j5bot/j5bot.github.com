@@ -68,7 +68,7 @@ Music by [Rachel's](http://rachelsband.rachelgrimespiano.com/)
 
 ### The Designory
 
-** Inifinity Korea **
+**Inifinity Korea**
 
 <figure>
   <video controls
@@ -86,3 +86,5 @@ CMS includes many new features required for the Korean market.
 [[Larger Version](/assets/video/Infiniti - Global CMS Launch.mp4)]
 
 Music by [Mew](https://mewsite.com)
+
+{% include header-links.html %}
