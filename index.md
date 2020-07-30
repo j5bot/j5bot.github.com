@@ -287,6 +287,22 @@ dealing using the
 allows for changing the card face design between the English pattern and a
 Russian "Atlas" design.
 
+[React ACID Trail](https://go.jonathancook.site/react-acid-trail-repo)
+  ([demo](https://go.jonathancook.site/react-acid-trail-demo))
+  
+An ACID Trail is a sequence of colors and/or color names which is generated from
+arbitrary data and can serve as a unique identifier for that data, and especially
+a particular version of that data.  Distinguishing between different versions of
+resources (e.g. files, records) which have the same "base" identifier is a difficult
+problem.  I attempt to address this problem by using colors which are not randomly
+generated but rather generated as a representation of the data to create.  Identical
+versions of the same resource would have the same ACID Trail identifier.
+
+This implementation utilizes ES6 and WebWorkers for the logic and code structure,
+and React/Redux and Bootstrap for UI.
+
+A (much) earlier version without ES6, WebWorkers, React, etc. is also linked below.
+
 ### Libraries/Tools
 
 [Ångsturm](https://go.jonathancook.site/angsturm-repo)
@@ -306,7 +322,7 @@ itself.
 [acid-trail](https://go.jonathancook.site/acid-trail-repo)
   ([demo](https://go.jonathancook.site/acid-trail-demo))
 
-Utility to create a memorable / human readable identifier for an object /
+Early version of a utility to create a memorable / human readable identifier for an object /
 document / state by mapping hashes to color sequences. Integrating existing
 functionality from other tools to solve a new and unique problem. Easily
 translates to other languages, I have implemented the code in C# as well as the
