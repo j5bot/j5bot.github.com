@@ -111,7 +111,9 @@ years:
 `end-to-end testing`
 `envox`
 `es2015`
+`es5`
 `es6`
+`esnext`
 `etl`
 `exchange server`
 `fogbugz`
@@ -163,11 +165,13 @@ years:
 `nvm`
 `orientdb`
 `osgi`
-`osx 10`
+`osx`
 `php`
 `postgresql`
 `ras`
 `raw tcp/ip sockets`
+`react`
+`react hooks`
 `react-redux`
 `react-router-redux`
 `react-testing-library`
@@ -188,6 +192,7 @@ years:
 `smtp`
 `spring`
 `spring boot`
+`spring data`
 `svn`
 `tcp/ip`
 `tdd`
@@ -308,13 +313,13 @@ A (much) earlier version without ES6, WebWorkers, React, etc. is also linked bel
 [Ångsturm](https://go.jonathancook.site/angsturm-repo)
   ([demo](https://go.jonathancook.site/angsturm-demo))
 
-A toolkit extending AngularJS by introducing composite multi-aspect components.
+An application / toolkit extending AngularJS by introducing composite multi-aspect components.
 Composition occurs along many lines including heirarchy, layout, component
 definition, component configuration, component behavior, and contract/data
 consumption.
 
-As a fledgling toolkit, it is presented in the form of an example application,
-the [Interface Designer](https://go.jonathancook.site/angsturm-demo).
+It is presented in the form of an example application,
+the [Interface Designer](https://go.jonathancook.site/angsturm).
 To get to know how the toolkit works, you will need to examine the example
 application code's configurations and data along with the angsturm.js code
 itself.
@@ -381,6 +386,7 @@ current standards, it still represents the implementation of a large hand-rolled
 application with important features like image manipulation, CMS, blog, user
 management, etc.
 
+<!--
 [GEKE.NET](https://go.jonathancook.site/geke-net)
 
 Also very old, a site which contains portfolio sections for design and
@@ -390,6 +396,7 @@ users of EzBoard (now Yuku), and
 
 This code is good to look at if you're interested in my skills in programming JS
 / DHTML without frameworks as most of the code is made from scratch.
+-->
 
 ## Writings
 
