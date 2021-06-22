@@ -26,9 +26,23 @@
 _I like patterns; taking abstract ideas and bringing them into the world of the
 'real' in order to help people get more done and have more fun._
 
-_I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie
+_I have taken on diverse roles and responsibilities throughout my career.  From individual contributor to systems architect, deputy CDO, mentor, people manager; back end; front end; system administration; ux designer and collaborator._
+
+_Wondering about my nickname?  I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie
 Short Circuit's Johnny 5 robot-with-emotions and to the tongue-in-cheek h4x0r spelling of
-JS. Eeen-put, Stephanie!_
+JS._
+
+## What I'm looking for
+
+I am seeking a Principal Software Engineer or Tech Lead position. For the right company, that will support me in furthering my career, I am happy to take a Senior Developer role while I learn your business.
+
+My ideal company is past the early startup stage, with developed processes, strong leadership, and a clear strategy and long term vision.
+
+I am a big believer in agile methodologies and iterative delivery, offering both the opportunity to fail quickly, the motivation to succeed, and the incentive to constantly strive for quality code.
+
+The ideal culture for me is one where everyone — particularly leadership, product owners, and managers — is heavily invested in the success of the company, the quality of their work, and personal growth.  But also one where work/life balance is emphasized and tight deadlines don't translate into a high pressure, high stress environment or death marches.
+
+I strongly prefer to work remotely, but am able to make myself available for on-site meetings as long as they are near my home in Fairfax, VA (greater Washington, DC area).
 
 ## An overview of my technical experience
 
