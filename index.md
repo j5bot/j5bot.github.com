@@ -27,7 +27,7 @@ _I like patterns; taking abstract ideas and bringing them into the world of the
 'real' in order to help people get more done and have more fun._
 
 _I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie
-Short Circuit's Johnny 5 robot-with-emotions and to the h4x0r spelling of
+Short Circuit's Johnny 5 robot-with-emotions and to the tongue-in-cheek h4x0r spelling of
 JS. Eeen-put, Stephanie!_
 
 ## An overview of my technical experience
@@ -40,11 +40,12 @@ JS. Eeen-put, Stephanie!_
 - Front-End Development: 17+ years
 - HTML5: 7+ years
 - CSS3: 7+ years
+<!--
 - AngularJS: 2+ years
 - Angular2: 1 year
-- Angular5: 1 year
-- ReactJS: 4+ years
-- React-Redux: 3+ years
+-->
+- ReactJS: 5+ years
+- React-Redux: 4+ years
 - RxJS: 1 year
 
 ## Resumes, CVs, and more
@@ -71,6 +72,7 @@ years:
 `.net`
 `4gl`
 `adobe aem`
+`adobe ecm`
 `akamai`
 `android web browser`
 `angular`
@@ -80,8 +82,10 @@ years:
 `artifactory`
 `asp.net mvc`
 `backbonejs`
+`backend`
 `backgroundworker`
 `bash`
+`bdd`
 `bitbucket`
 `blueprintjs`
 `bootstrap`
@@ -89,6 +93,7 @@ years:
 `c#`
 `c++`
 `chai`
+`chrome plugins`
 `circleci`
 `cisco routers`
 `classic asp`
@@ -101,12 +106,16 @@ years:
 `css3`
 `css`
 `cvs`
+`d3`
 `day cq4`
 `day cq5`
+`debugging`
 `dhcp`
 `dns`
 `docker compose`
 `docker`
+`dom-testing-library`
+`echarts`
 `edgecast`
 `end-to-end testing`
 `envox`
@@ -116,7 +125,10 @@ years:
 `esnext`
 `etl`
 `exchange server`
+`express`
 `fogbugz`
+`frontend`
+`full stack`
 `git`
 `github issues`
 `github pages`
@@ -156,6 +168,7 @@ years:
 `mocha`
 `ms access`
 `ms sql server`
+`mvc`
 `nginx`
 `node.js`
 `normalizr`
@@ -166,6 +179,7 @@ years:
 `orientdb`
 `osgi`
 `osx`
+`performance optimization`
 `php`
 `postgresql`
 `ras`
@@ -186,10 +200,14 @@ years:
 `scrum master`
 `scrum`
 `secure coding`
+`selenium`
 `selenium webdriver`
+`session storage`
+`server-side rendering`
 `sinon`
 `sling`
 `smtp`
+`spa`
 `spring`
 `spring boot`
 `spring data`
@@ -209,6 +227,7 @@ years:
 `vba`
 `vbscript`
 `webpack`
+`websockets`
 `webworker`
 `windows 10`
 `windows 2k`
@@ -233,8 +252,8 @@ At the same time as I like to be conscious of design patterns and algorithms, my
 roots as something of a 'cowboy coder' mean that I can get things done and think
 outside of the proverbial box.
 
-While I'm versed in many of the latest frameworks and tech like React,
-React-Redux, AngularJS and Angular, I don't use the latest and greatest just
+While I'm versed in many of the latest frameworks and libraries like React,
+React-Redux, and Redux-Sagas, I don't use the latest and greatest just
 because it's cool. That's not me. I evolve existing legacy systems into the future, and
 I want to use the right tool for the job. Sometimes that means building out your own tooling,
 embracing functional programming, meta-programming, and more.
