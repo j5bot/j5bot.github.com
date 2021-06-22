@@ -40,10 +40,8 @@ JS. Eeen-put, Stephanie!_
 - Front-End Development: 17+ years
 - HTML5: 7+ years
 - CSS3: 7+ years
-<!--
 - AngularJS: 2+ years
-- Angular2: 1 year
--->
+- Angular2+: 1 year
 - ReactJS: 5+ years
 - React-Redux: 4+ years
 - RxJS: 1 year
