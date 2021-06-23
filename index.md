@@ -26,7 +26,7 @@
 _I like patterns; taking abstract ideas and bringing them into the world of the
 'real' in order to help people get more done and have more fun._
 
-_I have taken on diverse roles and responsibilities throughout my career.  From individual contributor to systems architect, deputy CDO, mentor, people manager; back end; front end; system administration; ux designer and collaborator._
+_I have taken on diverse roles and responsibilities throughout my career.  From individual contributor to systems architect._
 
 _Wondering about my nickname?  I <3 JS: so much so that my nickname, J5, is both a reference to the 80's movie
 Short Circuit's Johnny 5 robot-with-emotions and to the tongue-in-cheek h4x0r spelling of
