@@ -269,19 +269,6 @@ because it's cool. That's not me. I evolve existing legacy systems into the futu
 I want to use the right tool for the job. Sometimes that means building out your own tooling,
 embracing functional programming, meta-programming, and more.
 
-## Videos
-
-[Videos](/videos) which demonstrate products and projects I have worked on.
-
-<div class="videos">
-  <a href="/videos">
-    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Angulator (Original Version).png" alt="ViiMed - Angulator (Original Version)" /></span>
-    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Goniometer vs. Angulator - Mobile.png" alt="ViiMed - Goniometer vs. Angulator" /></span>
-    <span><img height="150" src="/assets/images/viimed/journal/ViiMed - Patient Journals.png" alt="ViiMed - Patient Journals" /></span>
-    <span><img height="150" src="/assets/images/designory/Infiniti - Global CMS Launch.png" alt="Infiniti - Global CMS Launch" /></span>
-  </a>
-</div>
-
 ## Code
 
 ### GitHub
@@ -292,7 +279,7 @@ View all my repos and the repos I've forked.
 
 ### Demo Projects
 
-[ShelfScan](https://go.jonathancook.site/shelfscan-repo) 
+[ShelfScan](https://go.jonathancook.site/shelfscan-repo)
 ([demo](https://go.jonathancook.site/shelfscan-vercel))
 
 An application which scans board game UPCs and looks up info on the game from [GameUPC]
@@ -310,11 +297,11 @@ and [@react-barcode-scanner/hooks](https://go.jonathancook.site/react-barcode-sc
 Component and underlying hook(s) for scanning UPCs with a webcam or phone camera.
 
 [Component Storybook](https://go.jonathancook.site/react-barcode-scanner-components-sb)
-and 
+and
 [Hooks Storybook](https://go.jonathancook.site/react-barcode-scanner-hooks-sb)
 
 [deck-of-cards](https://go.jonathancook.site/deck-of-cards-repo)
-  ([demo](https://go.jonathancook.site/deck-of-cards-demo))
+([demo](https://go.jonathancook.site/deck-of-cards-demo))
 
 An ES6 implementation of a deck of playing cards, including mix-ins, base
 classes, and more.  In addition to implementing a standard deck of playing
@@ -327,7 +314,7 @@ coverage and complete report of test results.  The test results reporting is
 done using React components.
 
 [React Deck-of-Cards](https://go.jonathancook.site/react-deck-of-cards-repo)
-  ([demo](https://go.jonathancook.site/react-deck-of-cards-demo))
+([demo](https://go.jonathancook.site/react-deck-of-cards-demo))
 
 A React UI using CSS3 Flexbox, showing an implementation of shuffling and
 dealing using the
@@ -336,8 +323,8 @@ allows for changing the card face design between the English pattern and a
 Russian "Atlas" design.
 
 [React ACID Trail](https://go.jonathancook.site/react-acid-trail-repo)
-  ([demo](https://go.jonathancook.site/react-acid-trail-demo))
-  
+([demo](https://go.jonathancook.site/react-acid-trail-demo))
+
 An ACID Trail is a sequence of colors and/or color names which is generated from
 arbitrary data and can serve as a unique identifier for that data, and especially
 a particular version of that data.  Distinguishing between different versions of
@@ -348,6 +335,20 @@ versions of the same resource would have the same ACID Trail identifier.
 
 This implementation utilizes ES6 and WebWorkers for the logic and code structure,
 and React/Redux and Bootstrap for UI.
+
+
+## Videos
+
+[Videos](/videos) which demonstrate products and projects I have worked on.
+
+<div class="videos">
+  <a href="/videos">
+    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Angulator (Original Version).png" alt="ViiMed - Angulator (Original Version)" /></span>
+    <span><img height="150" src="/assets/images/viimed/angulator/ViiMed - Goniometer vs. Angulator - Mobile.png" alt="ViiMed - Goniometer vs. Angulator" /></span>
+    <span><img height="150" src="/assets/images/viimed/journal/ViiMed - Patient Journals.png" alt="ViiMed - Patient Journals" /></span>
+    <span><img height="150" src="/assets/images/designory/Infiniti - Global CMS Launch.png" alt="Infiniti - Global CMS Launch" /></span>
+  </a>
+</div>
 
 ## Writings
 
