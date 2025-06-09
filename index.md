@@ -292,6 +292,27 @@ View all my repos and the repos I've forked.
 
 ### Demo Projects
 
+[ShelfScan](https://go.jonathancook.site/shelfscan-repo) 
+([demo](https://go.jonathancook.site/shelfscan-vercel))
+
+An application which scans board game UPCs and looks up info on the game from [GameUPC]
+(https://gameupc.com)'s API.
+
+Scanning is done via my
+[@react-barcode-scanner/components](https://go.jonathancook.site/react-barcode-scanner-components-repo)
+library (in turn via my underlying hooks library).
+
+The application is implemented with Nextjs, Tailwind CSS, DaisyUI, React, and Typescript.
+
+[@react-barcode-scanner/components](https://go.jonathancook.site/react-barcode-scanner-components-repo)
+and [@react-barcode-scanner/hooks](https://go.jonathancook.site/react-barcode-scanner-hooks)
+
+Component and underlying hook(s) for scanning UPCs with a webcam or phone camera.
+
+[Component Storybook](https://go.jonathancook.site/react-barcode-scanner-components-sb)
+and 
+[Hooks Storybook](https://go.jonathancook.site/react-barcode-scanner-hooks-sb)
+
 [deck-of-cards](https://go.jonathancook.site/deck-of-cards-repo)
   ([demo](https://go.jonathancook.site/deck-of-cards-demo))
 
@@ -327,17 +348,6 @@ versions of the same resource would have the same ACID Trail identifier.
 
 This implementation utilizes ES6 and WebWorkers for the logic and code structure,
 and React/Redux and Bootstrap for UI.
-
-A (much) earlier version without ES6, WebWorkers, React, etc. is also linked below.
-
-#### Plugin / Toy
-
-[tower-egg](https://go.jonathancook.site/tower-egg-repo)
-  ([demo](https://go.jonathancook.site/tower-egg-demo))
-
-A small javascript puzzle game which implements the 'tower of hanoi' also known
-as 'lucas tower'. Designed so it can be embedded easily as an application easter
-egg :)
 
 ## Writings
 
